@@ -1,4 +1,11 @@
+<<<<<<< HEAD
 ﻿fastapi==0.115.13
 uvicorn==0.34.3
 google-generativeai==0.8.5
 python-dotenv==1.1.1
+=======
+fastapi==0.115.13       # web framework :contentReference[oaicite:0]{index=0}
+uvicorn==0.34.3         # ASGI server   :contentReference[oaicite:1]{index=1}
+google-genai==1.21.1    # Gemini SDK    :contentReference[oaicite:2]{index=2}
+python-dotenv==1.1.1    # .env loader   :contentReference[oaicite:3]{index=3}
+>>>>>>> 8e46334 (Initial Gemini FastAPI microservice)

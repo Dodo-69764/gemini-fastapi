@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ﻿# virtual environment
 .venv/
 
@@ -11,3 +12,9 @@ __pycache__/
 # IDE settings
 .vscode/
 .idea/
+=======
+.venv/
+__pycache__/
+.env
+*.pyc
+>>>>>>> 8e46334 (Initial Gemini FastAPI microservice)
