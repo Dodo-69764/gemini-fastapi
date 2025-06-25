@@ -1,0 +1,16 @@
+# ---- keep the build context lean & secret-free ----
+.env
+*.env
+# Python cache / editor junk
+__pycache__/
+*.py[cod]
+*.log
+# Virtual environments
+.venv/
+# Git repo data
+.git/
+.gitignore
+# Tests & docs (optional)
+tests/
+docs/
+README.md
